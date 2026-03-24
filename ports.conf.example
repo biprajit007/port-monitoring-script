@@ -1,3 +1,2 @@
-# host:port:label
-127.0.0.1:22:Local SSH
-google.com:443:Google HTTPS
+localhost:22:local ssh
+example.com:443:public https
